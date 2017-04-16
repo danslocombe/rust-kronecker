@@ -1,6 +1,10 @@
 [package]
+
 name = "kronecker"
 version = "0.1.0"
-authors = ["Daniel Slocombe <ds4314@ic.ac.uk>"]
+description = "Provides Kronecker Delta Function"
+keywords = ["delta", "kronecker", "difference", "equal", "different"]
 
-[dependencies]
+authors = ["Daniel Slocombe <ds4314@ic.ac.uk>"]
+repository = "https://github.com/danslocombe/rust-kronecker"
+license = "MIT"
