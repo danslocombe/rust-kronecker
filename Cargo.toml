@@ -1,0 +1,6 @@
+[package]
+name = "kronecker"
+version = "0.1.0"
+authors = ["Daniel Slocombe <ds4314@ic.ac.uk>"]
+
+[dependencies]
